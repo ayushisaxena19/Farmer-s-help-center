@@ -20,7 +20,7 @@ function App() {
         </Routes>
       </BrowserRouter>
     </>
-  );
+  )
 }
 // code completed
 export default App;
